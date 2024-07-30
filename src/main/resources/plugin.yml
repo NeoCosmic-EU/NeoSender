@@ -1,0 +1,6 @@
+name: NeoSender
+version: '${version}'
+main: net.neocosmic.neosender.NeoSender
+api-version: '1.16'
+commands:
+  send:
